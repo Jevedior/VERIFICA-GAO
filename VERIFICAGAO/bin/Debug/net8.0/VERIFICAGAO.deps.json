@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "VERIFICAGAO/1.0.0": {
+        "runtime": {
+          "VERIFICAGAO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VERIFICAGAO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

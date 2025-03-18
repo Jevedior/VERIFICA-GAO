@@ -1,0 +1,15 @@
+C:\Users\gao.deyingfrancesco\Desktop\VERIFICA GAO DEYING\VERIFICA\VERIFICAGAO\bin\Debug\net8.0\VERIFICAGAO.exe
+C:\Users\gao.deyingfrancesco\Desktop\VERIFICA GAO DEYING\VERIFICA\VERIFICAGAO\bin\Debug\net8.0\VERIFICAGAO.deps.json
+C:\Users\gao.deyingfrancesco\Desktop\VERIFICA GAO DEYING\VERIFICA\VERIFICAGAO\bin\Debug\net8.0\VERIFICAGAO.runtimeconfig.json
+C:\Users\gao.deyingfrancesco\Desktop\VERIFICA GAO DEYING\VERIFICA\VERIFICAGAO\bin\Debug\net8.0\VERIFICAGAO.dll
+C:\Users\gao.deyingfrancesco\Desktop\VERIFICA GAO DEYING\VERIFICA\VERIFICAGAO\bin\Debug\net8.0\VERIFICAGAO.pdb
+C:\Users\gao.deyingfrancesco\Desktop\VERIFICA GAO DEYING\VERIFICA\VERIFICAGAO\obj\Debug\net8.0\VERIFICAGAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gao.deyingfrancesco\Desktop\VERIFICA GAO DEYING\VERIFICA\VERIFICAGAO\obj\Debug\net8.0\VERIFICAGAO.AssemblyInfoInputs.cache
+C:\Users\gao.deyingfrancesco\Desktop\VERIFICA GAO DEYING\VERIFICA\VERIFICAGAO\obj\Debug\net8.0\VERIFICAGAO.AssemblyInfo.cs
+C:\Users\gao.deyingfrancesco\Desktop\VERIFICA GAO DEYING\VERIFICA\VERIFICAGAO\obj\Debug\net8.0\VERIFICAGAO.csproj.CoreCompileInputs.cache
+C:\Users\gao.deyingfrancesco\Desktop\VERIFICA GAO DEYING\VERIFICA\VERIFICAGAO\obj\Debug\net8.0\VERIFICAGAO.sourcelink.json
+C:\Users\gao.deyingfrancesco\Desktop\VERIFICA GAO DEYING\VERIFICA\VERIFICAGAO\obj\Debug\net8.0\VERIFICAGAO.dll
+C:\Users\gao.deyingfrancesco\Desktop\VERIFICA GAO DEYING\VERIFICA\VERIFICAGAO\obj\Debug\net8.0\refint\VERIFICAGAO.dll
+C:\Users\gao.deyingfrancesco\Desktop\VERIFICA GAO DEYING\VERIFICA\VERIFICAGAO\obj\Debug\net8.0\VERIFICAGAO.pdb
+C:\Users\gao.deyingfrancesco\Desktop\VERIFICA GAO DEYING\VERIFICA\VERIFICAGAO\obj\Debug\net8.0\VERIFICAGAO.genruntimeconfig.cache
+C:\Users\gao.deyingfrancesco\Desktop\VERIFICA GAO DEYING\VERIFICA\VERIFICAGAO\obj\Debug\net8.0\ref\VERIFICAGAO.dll

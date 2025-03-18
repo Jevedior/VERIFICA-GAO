@@ -1,4 +1,5 @@
-﻿using System.Security.Cryptography;
+﻿using System.ComponentModel.Design;
+using System.Security.Cryptography;
 using System.Text.RegularExpressions;
 
 void popolatemperature(int[,] temp, int temperatura, Random rnd)
@@ -64,7 +65,23 @@ void temperaturamassima(int[,] Temp, int temperatura, Random rnd, int max)
     }
     Console.WriteLine("Valore massimo registrato : " + max);
 }
-
+bool verifica(int[] numeri)
+{
+    
+    for(int i = 0;i < numeri.Length; i++)
+    {
+        for(int j = numeri.Length-1; j >0; j--)
+        {
+            if (numeri[i] == numeri[j])
+            {
+                return false;
+            }
+           
+        }
+        
+    }
+    return true;
+}
 
 Random rnd = new Random();
 int temperatura = 0;
@@ -73,9 +90,12 @@ int media = 0;
 int max = -999;
 
 int[,] Temp = new int[2, 12];
+int[] numeri = {1,2,3,4,5,6,7,8,9};
 
 popolatemperature(Temp, temperatura, rnd);
 Console.WriteLine(" ");
 mediaProgressiva(Temp, temperatura, rnd, somma, media);
 Console.WriteLine(" ");
 temperaturamassima(Temp, temperatura, rnd, max);
+Console.WriteLine(" ");
+verifica(numeri);

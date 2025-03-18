@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VERIFICAGAO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2bb8b3885358dc8091247e1ef814dd96f6243441")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f486a6032d62f5ce475e16bf2599a102de4fbbd9")]
 [assembly: System.Reflection.AssemblyProductAttribute("VERIFICAGAO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VERIFICAGAO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
